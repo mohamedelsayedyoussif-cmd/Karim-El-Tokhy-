@@ -1,0 +1,6 @@
+/* Responsive tweaks that Tailwind doesn't cover natively */
+@media (max-width: 768px) {
+  .custom-cursor {
+    display: none; /* Hide custom cursor on mobile */
+  }
+}
